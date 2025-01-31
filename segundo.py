@@ -37,3 +37,6 @@ def calculadora():
         print("Operação inválida!")
 
 calculadora()
+
+testando!!
+
